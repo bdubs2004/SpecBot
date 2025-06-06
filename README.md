@@ -8,4 +8,5 @@ How to Run:
 -Put all .html files into a templates folder
 -Put all .css files into a static folder
 -Create an Uploads folder so that files can be stored
+-Create a credentials.json key for the AI
 -Deploy the app
