@@ -5,3 +5,8 @@ python-dotenv
 pdfplumber
 pandas
 docx2txt
+PyMuPDF
+python-docx
+pdf2image
+pytesseract
+google-cloud-aiplatform
